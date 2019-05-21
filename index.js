@@ -26,7 +26,7 @@ function sayHiToGrandma(string)
   else if (string === string.toUpperCase()) {
     return "YES INDEED!"
   }
-  --
+  // Just saying everything else can't be heard if doesnt meet above criteria
   else {
     return "I can't hear you!"
   }
